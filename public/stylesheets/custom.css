@@ -79,3 +79,14 @@ a.signup_button {
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
 }
+
+footer {
+    text-align:center;
+    margin-top:10px;
+    width:710px;
+    margin:auto;
+}
+
+footer nav {
+    float:none;
+}
